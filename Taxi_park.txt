@@ -1,0 +1,5 @@
+ВАЗ-2107,Черный,589,57,5
+Mercedes-Benz S-Class,Белый,580,69,7
+Renault Logan,Красный,990,90,10
+BMW 7 Series,Синий,989,67,11
+Toyota Camry,Черный,471,80,9
